@@ -1,4 +1,4 @@
-![image](https://github.com/Lokesh4869/Alarm_clock-app/assets/127381677/9589543a-c907-4298-ace8-90f5d3ec1614)🪧 Demo :- https://lokesh4869.github.io/Alarm_clock-app/
+🪧 Demo :- https://lokesh4869.github.io/Alarm_clock-app/
 Video :-  https://youtu.be/WEEflBwQns0
 
 ---
